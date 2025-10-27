@@ -1,0 +1,51 @@
+id,dish_id,ingredient_id,ingredient_name,quantity,unit
+50,10,24,ot,5,g
+45,9,23,toi,5,g
+41,9,6,bun,200,g
+43,9,19,trung,1,cái
+19,4,25,dua chuot,20,g
+9,2,4,nuoc mam,20,ml
+5,1,4,nuoc mam,15,ml
+24,5,25,dua chuot,20,g
+27,6,11,muc,150,g
+15,3,22,hanh tay,15,g
+21,5,13,banh mi,1,cái
+20,4,26,rau thom,10,g
+39,8,22,hanh tay,20,g
+23,5,5,thit heo,100,g
+30,6,24,ot,5,g
+16,4,10,tom,80,g
+34,7,21,ca chua,30,g
+14,3,21,ca chua,30,g
+26,6,10,tom,150,g
+1,1,1,banh pho,200,g
+31,7,15,mi quang,200,g
+40,8,24,ot,5,g
+17,4,12,rau song,40,g
+32,7,5,thit heo,100,g
+3,1,3,hanh la,10,g
+6,2,6,bun,200,g
+35,7,23,toi,5,g
+22,5,14,pate,30,g
+4,1,22,hanh tay,20,g
+8,2,12,rau song,50,g
+11,3,7,com tam,200,g
+42,9,10,tom,80,g
+13,3,12,rau song,50,g
+25,5,26,rau thom,10,g
+37,8,12,rau song,50,g
+46,10,17,bot gao,100,g
+49,10,22,hanh tay,20,g
+10,2,23,toi,5,g
+47,10,18,gia o,50,g
+2,1,2,thit bo,150,g
+38,8,4,nuoc mam,15,ml
+29,6,22,hanh tay,40,g
+28,6,12,rau song,100,g
+33,7,20,au phong,20,g
+44,9,21,ca chua,30,g
+48,10,12,rau song,50,g
+7,2,5,thit heo,120,g
+36,8,16,ca lang,200,g
+18,4,18,gia o,30,g
+12,3,8,suon nuong,150,g

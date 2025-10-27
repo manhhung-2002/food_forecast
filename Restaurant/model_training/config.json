@@ -1,0 +1,82 @@
+{
+    "banh_mi_thit": {
+        "n_estimators": 500,
+        "learning_rate": 0.05,
+        "max_depth": 4,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    },
+    "banh_xeo": {
+        "n_estimators": 400,
+        "learning_rate": 0.05,
+        "max_depth": 4,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    },
+    "bun_cha": {
+        "n_estimators": 900,
+        "learning_rate": 0.035,
+        "max_depth": 5,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    },
+    "cha_ca_la_vong": {
+        "n_estimators": 550,
+        "learning_rate": 0.045,
+        "max_depth": 4,
+        "subsample": 0.85,
+        "colsample_bytree": 0.85,
+        "random_state": 42
+    },
+    "com_tam": {
+        "n_estimators": 500,
+        "learning_rate": 0.05,
+        "max_depth": 4,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    },
+    "goi_cuon": {
+        "n_estimators": 700,
+        "learning_rate": 0.05,
+        "max_depth": 4,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    },
+    "hu_tieu_nam_vang": {
+        "n_estimators": 1200,
+        "learning_rate": 0.03,
+        "max_depth": 6,
+        "subsample": 0.9,
+        "colsample_bytree": 0.9,
+        "random_state": 42
+    },
+    "lau_hai_san": {
+        "n_estimators": 400,
+        "learning_rate": 0.025,
+        "max_depth": 4,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    },
+    "mi_quang": {
+        "n_estimators": 600,
+        "learning_rate": 0.04,
+        "max_depth": 5,
+        "subsample": 0.85,
+        "colsample_bytree": 0.85,
+        "random_state": 42
+    },
+    "pho_bo": {
+        "n_estimators": 800,
+        "learning_rate": 0.025,
+        "max_depth": 4,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "random_state": 42
+    }
+}
